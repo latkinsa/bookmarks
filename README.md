@@ -12,6 +12,7 @@ A few bookmarks to interesting repositories, etc.
     * [Slides](https://on24static.akamaized.net/event/45/87/46/1/rt/1/documents/resourceList1718915301234/joanslides.pdf)
   * Omar Santos' [h4cker](https://github.com/The-Art-of-Hacking/h4cker) with a lot of stuff linked
     * [Slides](https://on24static.akamaized.net/event/44/82/73/2/rt/1/documents/resourceList1711979256568/aienabledprogrammingnetworkingandcybersecurity1711979256568.pdf)
+  * [Slides](https://on24static.akamaized.net/event/45/14/70/1/rt/1/documents/resourceList1714760520223/may2024generativedataengineeringcwa1714760520223.pdf) on generative Data Engineering and vector DBs
 * OWASP [Top 10 LLM risks](https://genai.owasp.org/llm-top-10/)
 * 
 
