@@ -24,4 +24,9 @@ A few bookmarks to interesting repositories, etc.
 * [Prisma client API](https://www.prisma.io/docs/orm/reference/prisma-client-reference)
 * 
 
-v.0.1
+## Terraform and Infra examples
+* [Learn IaC with TF](https://github.com/bananalab/Learn-Infrastructure-as-Code-with-Terraform/tree/main/terraform)
+* [TF up and running](https://github.com/brikis98/terraform-up-and-running-code)
+* 
+
+v.0.2
