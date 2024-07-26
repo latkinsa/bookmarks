@@ -26,7 +26,10 @@ A few bookmarks to interesting repositories, etc.
 
 ## Terraform and Infra examples
 * [Learn IaC with TF](https://github.com/bananalab/Learn-Infrastructure-as-Code-with-Terraform/tree/main/terraform)
+  * [Next Level TF](https://github.com/bananalab/Next-Level-Terraform)
+  * [Modules template](https://github.com/bananalab/terraform-modules-template)
+  * [Live TF template](https://github.com/bananalab/terraform-live-template)
 * [TF up and running](https://github.com/brikis98/terraform-up-and-running-code)
 * 
 
-v.0.2
+v.0.2.1
