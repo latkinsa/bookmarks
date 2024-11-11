@@ -30,6 +30,10 @@ A few bookmarks to interesting repositories, etc.
   * [Modules template](https://github.com/bananalab/terraform-modules-template)
   * [Live TF template](https://github.com/bananalab/terraform-live-template)
 * [TF up and running](https://github.com/brikis98/terraform-up-and-running-code)
+  * [TF API Docs - Functions](https://developer.hashicorp.com/terraform/language/functions)
+  * [TF AWS Provider docs](https://registry.terraform.io/providers/hashicorp/aws/latest/docs)
+  * [GCP Terraformer tool](https://github.com/GoogleCloudPlatform/terraformer)
+    * [Terracognita tool](https://github.com/cycloidio/terracognita)
 * 
 
 v.0.2.1
